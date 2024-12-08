@@ -1,5 +1,3 @@
-Voici le fichier **README.md** formaté :  
-
 ---
 
 # **Libft - Bibliothèque C Personnalisée**  
@@ -86,10 +84,16 @@ gcc -Wall -Wextra -Werror main.c libft.a -o main
 ./main
 ```
 
+### **✅ Résultat attendu**  
+
+```text
+Longueur de la chaîne : 111%
+```
+
 ---
 
 ## **👨‍💻 Auteur**  
-- **besrofex** - Développeur principal  
+- **Ton Nom (besrofex)** - Développeur principal  
 
 ---
 
@@ -97,3 +101,5 @@ gcc -Wall -Wextra -Werror main.c libft.a -o main
 Ce projet est sous licence MIT.  
 
 ---
+
+Colle ce contenu dans ton fichier **README.md** ! 🚀
