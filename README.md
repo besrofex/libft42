@@ -87,13 +87,13 @@ gcc -Wall -Wextra -Werror main.c libft.a -o main
 ### **✅ Résultat attendu**  
 
 ```text
-Longueur de la chaîne : 111%
+111%
 ```
 
 ---
 
 ## **👨‍💻 Auteur**  
-- **Ton Nom (besrofex)** - Développeur principal  
+- **Besrofex** - Développeur principal  
 
 ---
 
@@ -101,5 +101,3 @@ Longueur de la chaîne : 111%
 Ce projet est sous licence MIT.  
 
 ---
-
-Colle ce contenu dans ton fichier **README.md** ! 🚀
