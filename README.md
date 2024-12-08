@@ -89,7 +89,7 @@ gcc -Wall -Wextra -Werror main.c libft.a -o main
 ---
 
 ## **👨‍💻 Auteur**  
-- **(besrofex)** - Développeur principal  
+- **besrofex** - Développeur principal  
 
 ---
 
@@ -97,5 +97,3 @@ gcc -Wall -Wextra -Werror main.c libft.a -o main
 Ce projet est sous licence MIT.  
 
 ---
-
-Colle ce contenu dans un fichier **README.md** à la racine de ton dépôt GitHub ! 🚀
