@@ -89,7 +89,7 @@ gcc -Wall -Wextra -Werror main.c libft.a -o main
 ---
 
 ## **👨‍💻 Auteur**  
-- **Ton Nom (besrofex)** - Développeur principal  
+- **(besrofex)** - Développeur principal  
 
 ---
 
